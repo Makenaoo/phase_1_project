@@ -43,6 +43,10 @@ The dashboard provides insights into factors influencing aviation accidents and 
 - Weather Impact on Accidents – Analyzing the role of weather conditions in accidents
 - Flight Purpose Risks – Comparing accident rates by flight purpose (commercial, private, etc.)
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Technologies & Tools Used
 
 - **Programming Language**: Python
@@ -76,5 +80,3 @@ phase_1_project/
 ## Author
 
 Makena Odongo
-# phase_1_project
-# phase_1_project
