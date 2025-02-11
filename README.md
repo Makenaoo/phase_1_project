@@ -77,6 +77,3 @@ phase_1_project/
 - Develop a risk assessment framework for future investments.
 - Expand analysis to global accident datasets for broader insights.
 
-## Author
-
-Makena Odongo
